@@ -41,6 +41,7 @@ namespace FindJobWebAPI.Controllers
         [ProducesResponseType(400)]
         public IActionResult CreateWorker([FromBody] Worker workerCreate)
         {
+            int a = 5;
             if (workerCreate == null)
             {
                 BadRequest(ModelState);
