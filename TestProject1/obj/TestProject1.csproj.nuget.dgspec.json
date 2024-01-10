@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\spremink\\test-git2\\provjera\\FindJobWeb\\TestProject1\\TestProject1.csproj": {}
+    "D:\\spremink\\final\\TestProject1\\TestProject1.csproj": {}
   },
   "projects": {
-    "D:\\spremink\\test-git2\\provjera\\FindJobWeb\\FindJobWebAPI\\FindJobWebAPI.csproj": {
+    "D:\\spremink\\final\\FindJobWebAPI\\FindJobWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\spremink\\test-git2\\provjera\\FindJobWeb\\FindJobWebAPI\\FindJobWebAPI.csproj",
+        "projectUniqueName": "D:\\spremink\\final\\FindJobWebAPI\\FindJobWebAPI.csproj",
         "projectName": "FindJobWebAPI",
-        "projectPath": "D:\\spremink\\test-git2\\provjera\\FindJobWeb\\FindJobWebAPI\\FindJobWebAPI.csproj",
+        "projectPath": "D:\\spremink\\final\\FindJobWebAPI\\FindJobWebAPI.csproj",
         "packagesPath": "C:\\Users\\istankovic\\.nuget\\packages\\",
-        "outputPath": "D:\\spremink\\test-git2\\provjera\\FindJobWeb\\FindJobWebAPI\\obj\\",
+        "outputPath": "D:\\spremink\\final\\FindJobWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -99,14 +99,14 @@
         }
       }
     },
-    "D:\\spremink\\test-git2\\provjera\\FindJobWeb\\TestProject1\\TestProject1.csproj": {
+    "D:\\spremink\\final\\TestProject1\\TestProject1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\spremink\\test-git2\\provjera\\FindJobWeb\\TestProject1\\TestProject1.csproj",
+        "projectUniqueName": "D:\\spremink\\final\\TestProject1\\TestProject1.csproj",
         "projectName": "TestProject1",
-        "projectPath": "D:\\spremink\\test-git2\\provjera\\FindJobWeb\\TestProject1\\TestProject1.csproj",
+        "projectPath": "D:\\spremink\\final\\TestProject1\\TestProject1.csproj",
         "packagesPath": "C:\\Users\\istankovic\\.nuget\\packages\\",
-        "outputPath": "D:\\spremink\\test-git2\\provjera\\FindJobWeb\\TestProject1\\obj\\",
+        "outputPath": "D:\\spremink\\final\\TestProject1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -128,8 +128,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\spremink\\test-git2\\provjera\\FindJobWeb\\FindJobWebAPI\\FindJobWebAPI.csproj": {
-                "projectPath": "D:\\spremink\\test-git2\\provjera\\FindJobWeb\\FindJobWebAPI\\FindJobWebAPI.csproj"
+              "D:\\spremink\\final\\FindJobWebAPI\\FindJobWebAPI.csproj": {
+                "projectPath": "D:\\spremink\\final\\FindJobWebAPI\\FindJobWebAPI.csproj"
               }
             }
           }

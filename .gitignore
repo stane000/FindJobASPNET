@@ -1,0 +1,6 @@
+# Ignore directories
+bin/
+obj/
+
+# Ignore specific file
+appsettings.Development.json
