@@ -1,0 +1,20 @@
+
+{
+    "region" : "us-east-1",
+    "configuration" : "Release",
+    "framework"     : "net6.0",
+    "self-contained" : false,
+    "application"    : "FindJobWeb",
+    "environment"    : "FindJobWeb-dev",
+    "enable-xray"    : false,
+    "enhanced-health-type" : "basic",
+    "additional-options"   : "\"aws:autoscaling:launchconfiguration,SecurityGroups\"=\"sg-02e133d786b581520,sg-0d9b3b4a5bd696115\";\"aws:ec2:vpc,Subnets\"=\"subnet-04ab6d31406026972\";\"aws:elasticbeanstalk:command,BatchType\"=\"Percentage\";\"aws:elasticbeanstalk:command,BatchSize\"=\"100\"",
+    "solution-stack"       : "64bit Amazon Linux 2 v2.6.3 running .NET Core",
+    "environment-type"     : "SingleInstance",
+    "cname"                : "findjobweb-dev",
+    "instance-type"        : "t3a.medium",
+    "key-pair"             : "stankovicigor199737",
+    "instance-profile"     : "aws-elasticbeanstalk-ec2-role",
+    "service-role"         : "aws-elasticbeanstalk-service-role",
+    "proxy-server"         : "nginx"
+}

@@ -19,6 +19,11 @@ namespace FindJobWebAPI.Repository
         public ICollection<Job> GetJobs() 
         {
             return _context.Jobs.Include(c => c.Company).OrderBy(x => x.Id).ToList(); 
+
+
+
+
+
         }
 
         public Job GetJobById(int id)

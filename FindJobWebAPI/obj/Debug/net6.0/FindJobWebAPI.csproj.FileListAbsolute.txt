@@ -67,3 +67,6 @@ D:\spremink\final\FindJobWebAPI\obj\Debug\net6.0\refint\FindJobWebAPI.dll
 D:\spremink\final\FindJobWebAPI\obj\Debug\net6.0\FindJobWebAPI.pdb
 D:\spremink\final\FindJobWebAPI\obj\Debug\net6.0\FindJobWebAPI.genruntimeconfig.cache
 D:\spremink\final\FindJobWebAPI\obj\Debug\net6.0\ref\FindJobWebAPI.dll
+D:\spremink\final\FindJobWebAPI\bin\Debug\net6.0\appsettings.Development2.json
+D:\spremink\final\FindJobWebAPI\bin\Debug\net6.0\aws-beanstalk-tools-defaults.json
+D:\spremink\final\FindJobWebAPI\obj\Debug\net6.0\FindJobWebAPI.sourcelink.json

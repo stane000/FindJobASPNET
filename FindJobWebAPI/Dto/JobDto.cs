@@ -5,6 +5,7 @@ namespace FindJobWebAPI.Dto
 {
     public class JobDto
     {
+        public int id {  get; set; }
         public int CompanyId { get; set; }
 
         public string CompanyName { get; set; }
